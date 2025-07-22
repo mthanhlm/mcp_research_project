@@ -1,0 +1,15 @@
+1. read_file: Read the complete contents of a file from the file system.
+2. read_multiple_files: Read the contents of multiple files simultaneously.
+3. write_file: Create a new file or completely overwrite an existing file with new content.
+4. edit_file: Make line-based edits to a text file.
+5. create_directory: Create a new directory or ensure a directory exists.
+6. list_directory: Get a detailed listing of all files and directories in a specified path.
+7. list_directory_with_sizes: Get a detailed listing of all files and directories in a specified path, including sizes.
+8. directory_tree: Get a recursive tree view of files and directories as a JSON structure.
+9. move_file: Move or rename files and directories.
+10. search_files: Recursively search for files and directories matching a pattern.
+11. get_file_info: Retrieve detailed metadata about a file or directory.
+12. list_allowed_directories: Returns the list of directories that this server is allowed to access.
+13. search_papers: Search for papers on arXiv based on a topic and store their information.
+14. extract_info: Search for information about a specific paper across all topic directories.
+15. fetch: Fetches a URL from the internet and optionally extracts its contents as markdown.
